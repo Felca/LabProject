@@ -29,7 +29,10 @@
 
             <asp:Label ID="Label4" runat="server" Text="Gender"></asp:Label>
             <br />
-            <asp:TextBox ID="GenderTb" runat="server"></asp:TextBox>
+            <asp:DropDownList ID="GenderDdl" runat="server">
+                <asp:ListItem>Male</asp:ListItem>
+                <asp:ListItem>Female</asp:ListItem>
+            </asp:DropDownList>
             <br />
 
             <asp:Label ID="Label5" runat="server" Text="Confirmation Password"></asp:Label>
@@ -47,11 +50,6 @@
             <br />
             
             <asp:Button ID="RegisterBtn" runat="server" Text="Register" />
-
-
-
-
-
 
         </div>
     </form>

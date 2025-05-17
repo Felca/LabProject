@@ -87,13 +87,13 @@ namespace LOrdCardShop.Views
         protected global::System.Web.UI.WebControls.Label Label4;
 
         /// <summary>
-        /// GenderTb control.
+        /// GenderDdl control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox GenderTb;
+        protected global::System.Web.UI.WebControls.DropDownList GenderDdl;
 
         /// <summary>
         /// Label5 control.

@@ -28,10 +28,6 @@
             <br />
             <asp:Button ID="LoginBtn" runat="server" Text="Login" />
 
-
-
-
-
         </div>
     </form>
 </body>
