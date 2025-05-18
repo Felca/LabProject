@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "RegisterPage.aspx",
               "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\RegisterPage.aspx",
               "RelativeDocumentMoniker": "LOrdCardShop\\Views\\RegisterPage.aspx",
@@ -89,20 +89,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "LoginPage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\LoginPage.aspx.cs",
               "RelativeDocumentMoniker": "LOrdCardShop\\Views\\LoginPage.aspx.cs",
               "ToolTip": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\LoginPage.aspx.cs",
               "RelativeToolTip": "LOrdCardShop\\Views\\LoginPage.aspx.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wDEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T06:05:33.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomePage.aspx",
               "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\HomePage.aspx",
               "RelativeDocumentMoniker": "LOrdCardShop\\Views\\HomePage.aspx",
@@ -115,20 +115,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "HomePage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\HomePage.aspx.cs",
               "RelativeDocumentMoniker": "LOrdCardShop\\Views\\HomePage.aspx.cs",
               "ToolTip": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\HomePage.aspx.cs",
               "RelativeToolTip": "LOrdCardShop\\Views\\HomePage.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T08:00:11.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ProfilePage.aspx",
               "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\ProfilePage.aspx",
               "RelativeDocumentMoniker": "LOrdCardShop\\Views\\ProfilePage.aspx",
@@ -141,13 +141,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProfilePage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\ProfilePage.aspx.cs",
               "RelativeDocumentMoniker": "LOrdCardShop\\Views\\ProfilePage.aspx.cs",
               "ToolTip": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\ProfilePage.aspx.cs",
               "RelativeToolTip": "LOrdCardShop\\Views\\ProfilePage.aspx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwFcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T08:44:06.337Z",
               "EditorCaption": ""

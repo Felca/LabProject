@@ -30,8 +30,6 @@ namespace LOrdCardShop.Views
                               && usr.UserPassword == password
                               select usr).FirstOrDefault();
 
-                Response.Write(user.UserPassword);
-
                 // bikin session
                 if (user != null)
                 {

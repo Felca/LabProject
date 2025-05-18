@@ -83,10 +83,10 @@ namespace LOrdCardShop.Views
 
             // save to database
             var userToUpdate = db.Users.Find(user.UserId);
-            userToUpdate.UserName = username;
-            userToUpdate.UserEmail = email;
-            userToUpdate.UserGender = gender;
-            userToUpdate.UserPassword = newPass;
+            userToUpdate.UserName = user.UserName;
+            userToUpdate.UserEmail = user.UserEmail;
+            userToUpdate.UserGender = user.UserGender;
+            userToUpdate.UserPassword = user.UserPassword;
             db.SaveChanges();
 
             Session["user"] = userToUpdate;
