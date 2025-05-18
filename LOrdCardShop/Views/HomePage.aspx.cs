@@ -51,5 +51,12 @@ namespace LOrdCardShop.Views
                 }
             }
         }
+
+        protected void Logout_Click(object sender, EventArgs e)
+        {
+            Session.Clear();
+            Session.Abandon();
+            Response.Redirect("RegisterPage.aspx");
+        }
     }
 }

@@ -7,39 +7,39 @@
     <title></title>
 </head>
 <body>
-
+    <form id="form1" runat="server">
     <div>
         <h1>Welcome, 
             <asp:Label ID="UsernameLbl" runat="server" Text=" "></asp:Label>
             !</h1>
     </div>
 
-    <form method="get" action="Home.aspx" style="display:inline;">
+    <div>
         <input type="text" name="search" placeholder="Search shows..." value="<%= Request.QueryString["search"] ?? "" %>" />
         <input type="submit" value="Search" />
-    </form>
+    </div>
 
     <div>
         <nav id="NavCustomer" runat="server" visible="false">
             <a href="HomePage.aspx">Home</a>
-            <a href="HomePage.aspx">Order Card</a>
-            <a href="HomePage.aspx">Profile</a>
-            <a href="HomePage.aspx">History</a>
-            <a href="LoginPage.aspx">Logout</a>
-            <a>Cart</a>
+            <a href="OrderCardPage.aspx">Order Card</a>
+            <a href="ProfilePage.aspx">Profile</a>
+            <a href="TransactionHistoryPage.aspx">History</a>
+            <a href="CartPage.aspx">Cart</a>
+            <asp:Button class="LogoutBtn" runat="server" Text="Logout" OnClick="Logout_Click"/>
         </nav>
     </div>
 
     <div>
         <nav id="NavAdmin" runat="server" visible="false">
-            <a>Home</a>
-            <a>Manage Card</a>
-            <a>View Transaction</a>
-            <a>Transaction Report</a>
-            <a>Logout</a>
-            <a>Order Queue</a>
+            <a href="HomePage.aspx">Home</a>
+            <a href="ManageCardPage.aspx">Manage Card</a>
+            <a href="ViewTransactionsReport.aspx">View Transaction</a>
+            <a href="ViewTransactionsReport.aspx">Transaction Report</a>
+            <a href="HandleTransaction.aspx">Order Queue</a>
+            <asp:Button class="LogoutBtn" runat="server" Text="Logout" OnClick="Logout_Click"/>
         </nav>
     </div>
-
+    </form>
 </body>
 </html>
