@@ -15,10 +15,7 @@ namespace LOrdCardShop.Views
         DatabaseEntities1 db = new DatabaseEntities1();
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Session["user"] != null || Request.Cookies["user_cookie"] != null)
-            {
-                Response.Redirect("HomePage.aspx");
-            }
+
         }
 
         protected void LoginBtn_Click(object sender, EventArgs e)
@@ -32,6 +29,8 @@ namespace LOrdCardShop.Views
                               where usr.UserName == username
                               && usr.UserPassword == password
                               select usr).FirstOrDefault();
+
+                Response.Write(user.UserPassword);
 
                 // bikin session
                 if (user != null)

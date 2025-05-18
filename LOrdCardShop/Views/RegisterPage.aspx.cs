@@ -16,10 +16,7 @@ namespace LOrdCardShop.Views
         DatabaseEntities1 db = new DatabaseEntities1();
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Session["user"] != null || Request.Cookies["user_cookie"] != null)
-            {
-                Response.Redirect("HomePage.aspx");
-            }
+
         }
 
         protected void RegisterBtn_Click(object sender, EventArgs e)
@@ -43,7 +40,7 @@ namespace LOrdCardShop.Views
                 return;
             }
 
-            if (!email.Contains("@") || email.Length < 3)  // basic check
+            if (!email.Contains("@") || email.Length < 3)
             {
                 ErrorLbl.Text = "Email must contain '@'.";
                 return;
@@ -67,7 +64,7 @@ namespace LOrdCardShop.Views
                 return;
             }
 
-            // Save to your database here
+            // Save to database here
             User newUser = new User();
 
             newUser.UserName = username;

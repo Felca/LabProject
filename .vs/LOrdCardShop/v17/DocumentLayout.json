@@ -3,35 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|c:\\users\\felicia\\binus\\sem 4\\project psd lab\\labproject\\lordcardshop\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FELICIA_BINUS_SEM_4_PROJECT_PSD_LAB_LABPROJECT_LORDCARDSHOP_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|c:\\users\\felicia\\binus\\sem 4\\project psd lab\\labproject\\lordcardshop\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|c:\\users\\felicia\\binus\\sem 4\\project psd lab\\labproject\\lordcardshop\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|c:\\users\\felicia\\binus\\sem 4\\project psd lab\\labproject\\lordcardshop\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|c:\\users\\felicia\\binus\\sem 4\\project psd lab\\labproject\\lordcardshop\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|c:\\users\\felicia\\binus\\sem 4\\project psd lab\\labproject\\lordcardshop\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|c:\\users\\felicia\\binus\\sem 4\\project psd lab\\labproject\\lordcardshop\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|c:\\users\\felicia\\binus\\sem 4\\project psd lab\\labproject\\lordcardshop\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\lordcardshop\\views\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\views\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FELICIA_BINUS_SEM_4_PROJECT_PSD_LAB_LABPROJECT_LORDCARDSHOP_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|c:\\users\\felicia\\binus\\sem 4\\project psd lab\\labproject\\lordcardshop\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{30A62385-46AA-496E-B01A-B5A701794A4D}|LOrdCardShop\\LOrdCardShop.csproj|solutionrelative:lordcardshop\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 425,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,7 +53,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Models\\Model.edmx",
+              "RelativeDocumentMoniker": "LOrdCardShop\\Models\\Model.edmx",
+              "ToolTip": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Models\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "LOrdCardShop\\Models\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-18T06:29:53.425Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "dbo.Users [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FELICIA_BINUS_SEM_4_PROJECT_PSD_LAB_LABPROJECT_LORDCARDSHOP_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.Users.sql",
               "ToolTip": "dbo.Users [Data]",
@@ -59,19 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Model.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Models\\Model.edmx",
-              "RelativeDocumentMoniker": "LOrdCardShop\\Models\\Model.edmx",
-              "ToolTip": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Models\\Model.edmx [Diagram1]",
-              "RelativeToolTip": "LOrdCardShop\\Models\\Model.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-05-18T06:16:16.354Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RegisterPage.aspx",
               "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\RegisterPage.aspx",
               "RelativeDocumentMoniker": "LOrdCardShop\\Views\\RegisterPage.aspx",
@@ -84,20 +88,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RegisterPage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\RegisterPage.aspx.cs",
               "RelativeDocumentMoniker": "LOrdCardShop\\Views\\RegisterPage.aspx.cs",
               "ToolTip": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\RegisterPage.aspx.cs",
               "RelativeToolTip": "LOrdCardShop\\Views\\RegisterPage.aspx.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAvwEsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T06:05:22.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "LoginPage.aspx",
               "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\LoginPage.aspx",
               "RelativeDocumentMoniker": "LOrdCardShop\\Views\\LoginPage.aspx",
@@ -110,33 +114,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginPage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\LoginPage.aspx.cs",
               "RelativeDocumentMoniker": "LOrdCardShop\\Views\\LoginPage.aspx.cs",
               "ToolTip": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\LoginPage.aspx.cs",
               "RelativeToolTip": "LOrdCardShop\\Views\\LoginPage.aspx.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwD0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T06:05:33.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProfilePage.aspx",
-              "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\ProfilePage.aspx",
-              "RelativeDocumentMoniker": "LOrdCardShop\\Views\\ProfilePage.aspx",
-              "ToolTip": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\ProfilePage.aspx",
-              "RelativeToolTip": "LOrdCardShop\\Views\\ProfilePage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-14T11:00:23.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "HomePage.aspx",
               "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\HomePage.aspx",
               "RelativeDocumentMoniker": "LOrdCardShop\\Views\\HomePage.aspx",
@@ -145,6 +136,32 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-05-14T10:54:02.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "LOrdCardShop\\Views\\HomePage.aspx.cs",
+              "ToolTip": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\HomePage.aspx.cs",
+              "RelativeToolTip": "LOrdCardShop\\Views\\HomePage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:00:11.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfilePage.aspx",
+              "DocumentMoniker": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\ProfilePage.aspx",
+              "RelativeDocumentMoniker": "LOrdCardShop\\Views\\ProfilePage.aspx",
+              "ToolTip": "C:\\Users\\Felicia\\Binus\\Sem 4\\Project PSD Lab\\LabProject\\LOrdCardShop\\Views\\ProfilePage.aspx",
+              "RelativeToolTip": "LOrdCardShop\\Views\\ProfilePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-14T11:00:23.621Z",
               "EditorCaption": ""
             }
           ]

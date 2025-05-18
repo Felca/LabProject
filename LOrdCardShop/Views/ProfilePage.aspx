@@ -8,7 +8,14 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        <h1>Profile Page</h1>
         <div>
+            <asp:Label ID="Label1" runat="server" Text="Username: "></asp:Label>
+            <asp:TextBox ID="UsernameTb" runat="server" />
+
+            <br />
+
+
         </div>
     </form>
 </body>
