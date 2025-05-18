@@ -9,7 +9,7 @@
           <Key>
             <PropertyRef Name="CardId" />
           </Key>
-          <Property Name="CardId" Type="int" Nullable="false" />
+          <Property Name="CardId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="CardName" Type="varchar" MaxLength="100" Nullable="false" />
           <Property Name="CardPrice" Type="decimal" Precision="10" Scale="2" Nullable="false" />
           <Property Name="CardDesc" Type="varchar" MaxLength="100" Nullable="false" />
@@ -21,7 +21,7 @@
           <Key>
             <PropertyRef Name="CartId" />
           </Key>
-          <Property Name="CartId" Type="int" Nullable="false" />
+          <Property Name="CartId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="CardId" Type="int" Nullable="false" />
           <Property Name="UserId" Type="int" Nullable="false" />
           <Property Name="Quantity" Type="int" Nullable="false" />
@@ -38,7 +38,7 @@
           <Key>
             <PropertyRef Name="TransactionId" />
           </Key>
-          <Property Name="TransactionId" Type="int" Nullable="false" />
+          <Property Name="TransactionId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="TransactionDate" Type="date" />
           <Property Name="CustomerId" Type="int" Nullable="false" />
           <Property Name="Status" Type="varchar" MaxLength="100" />
@@ -47,12 +47,12 @@
           <Key>
             <PropertyRef Name="UserId" />
           </Key>
-          <Property Name="UserId" Type="int" Nullable="false" />
+          <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="UserName" Type="varchar" MaxLength="255" Nullable="false" />
           <Property Name="UserEmail" Type="varchar" MaxLength="50" Nullable="false" />
           <Property Name="UserPassword" Type="varchar" MaxLength="50" Nullable="false" />
           <Property Name="UserGender" Type="varchar" MaxLength="100" Nullable="false" />
-          <Property Name="UserDOB" Type="date" Nullable="false" />
+          <Property Name="UserDOB" Type="date" />
           <Property Name="UserRole" Type="varchar" MaxLength="100" Nullable="false" />
         </EntityType>
         <Association Name="FK_Card">
@@ -151,7 +151,7 @@
           <Key>
             <PropertyRef Name="CardId" />
           </Key>
-          <Property Name="CardId" Type="Int32" Nullable="false" />
+          <Property Name="CardId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="CardName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="CardPrice" Type="Decimal" Precision="10" Scale="2" Nullable="false" />
           <Property Name="CardDesc" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
@@ -165,7 +165,7 @@
           <Key>
             <PropertyRef Name="CartId" />
           </Key>
-          <Property Name="CartId" Type="Int32" Nullable="false" />
+          <Property Name="CartId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="CardId" Type="Int32" Nullable="false" />
           <Property Name="UserId" Type="Int32" Nullable="false" />
           <Property Name="Quantity" Type="Int32" Nullable="false" />
@@ -186,7 +186,7 @@
           <Key>
             <PropertyRef Name="TransactionId" />
           </Key>
-          <Property Name="TransactionId" Type="Int32" Nullable="false" />
+          <Property Name="TransactionId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="TransactionDate" Type="DateTime" Precision="0" />
           <Property Name="CustomerId" Type="Int32" Nullable="false" />
           <Property Name="Status" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
@@ -197,12 +197,12 @@
           <Key>
             <PropertyRef Name="UserId" />
           </Key>
-          <Property Name="UserId" Type="Int32" Nullable="false" />
+          <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="UserName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="UserEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="UserPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="UserGender" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
-          <Property Name="UserDOB" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="UserDOB" Type="DateTime" Precision="0" />
           <Property Name="UserRole" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
           <NavigationProperty Name="Carts" Relationship="Self.FK_Users" FromRole="Users" ToRole="Carts" />
           <NavigationProperty Name="TransactionHeaders" Relationship="Self.FK_TransactionHeader_Users" FromRole="Users" ToRole="TransactionHeader" />
@@ -267,7 +267,7 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <EntityContainer Name="DatabaseEntities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="DatabaseEntities1" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Cards" EntityType="Self.Card" />
           <EntitySet Name="Carts" EntityType="Self.Cart" />
           <EntitySet Name="TransactionDetails" EntityType="Self.TransactionDetail" />
@@ -299,7 +299,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="DatabaseModelStoreContainer" CdmEntityContainer="DatabaseEntities">
+        <EntityContainerMapping StorageEntityContainer="DatabaseModelStoreContainer" CdmEntityContainer="DatabaseEntities1">
           <EntitySetMapping Name="Cards">
             <EntityTypeMapping TypeName="DatabaseModel.Card">
               <MappingFragment StoreEntitySet="Card">

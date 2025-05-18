@@ -9,6 +9,12 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <nav>
+                <a href="HomePage.aspx">Home</a>
+                <a href="HomePage.aspx">Home</a>
+                <a href="HomePage.aspx">Home</a>
+                <a href="HomePage.aspx">Home</a>
+            </nav>
         </div>
     </form>
 </body>

@@ -4,12 +4,12 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="e5d7ef2abeb84681b2ac058dc40a9662" Name="Diagram1" ZoomLevel="71">
-        <EntityTypeShape EntityType="DatabaseModel.Card" Width="1.5" PointX="4.875" PointY="2" IsExpanded="true" />
-        <EntityTypeShape EntityType="DatabaseModel.Cart" Width="1.5" PointX="1.75" PointY="2.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="DatabaseModel.TransactionDetail" Width="1.5" PointX="7.375" PointY="5.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="DatabaseModel.TransactionHeader" Width="1.5" PointX="4.875" PointY="5.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="DatabaseModel.User" Width="1.5" PointX="1" PointY="5.875" IsExpanded="true" />
+      <Diagram DiagramId="caaebba575884e079b28566162f59fe9" Name="Diagram1" ZoomLevel="72">
+        <EntityTypeShape EntityType="DatabaseModel.Card" Width="1.5" PointX="3" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.Cart" Width="1.5" PointX="0.625" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.TransactionDetail" Width="1.5" PointX="5.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.TransactionHeader" Width="1.5" PointX="3" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.User" Width="1.5" PointX="0.5" PointY="6" IsExpanded="true" />
         <AssociationConnector Association="DatabaseModel.FK_Card" ManuallyRouted="false" />
         <AssociationConnector Association="DatabaseModel.FK_TransactionDetail_Card" ManuallyRouted="false" />
         <AssociationConnector Association="DatabaseModel.FK_Users" ManuallyRouted="false" />

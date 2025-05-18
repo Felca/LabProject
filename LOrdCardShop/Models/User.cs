@@ -26,7 +26,7 @@ namespace LOrdCardShop.Models
         public string UserEmail { get; set; }
         public string UserPassword { get; set; }
         public string UserGender { get; set; }
-        public System.DateTime UserDOB { get; set; }
+        public Nullable<System.DateTime> UserDOB { get; set; }
         public string UserRole { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

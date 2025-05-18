@@ -30,8 +30,9 @@
             <asp:Label ID="Label4" runat="server" Text="Gender"></asp:Label>
             <br />
             <asp:DropDownList ID="GenderDdl" runat="server">
-                <asp:ListItem>Male</asp:ListItem>
-                <asp:ListItem>Female</asp:ListItem>
+                <asp:ListItem Value="" Text="-- Select a Gender --"></asp:ListItem>
+                <asp:ListItem Value="Male">Male</asp:ListItem>
+                <asp:ListItem Value="Female">Female</asp:ListItem>
             </asp:DropDownList>
             <br />
 
@@ -49,7 +50,7 @@
             <asp:Label ID="ErrorLbl" runat="server" Text=" "></asp:Label>
             <br />
             
-            <asp:Button ID="RegisterBtn" runat="server" Text="Register" />
+            <asp:Button ID="RegisterBtn" runat="server" Text="Register" OnClick="RegisterBtn_Click"/>
 
         </div>
     </form>
